@@ -14,6 +14,5 @@ npm install -g gulp
 ## Usage
 
 ```python
-To start transpile just type the following on console:
 gulp 
 ```
